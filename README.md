@@ -111,7 +111,7 @@
 
   <h2>Footer Layout</h2>
 
-![View footer screenshot](Foorer.png)
+![View footer screenshot](Footer.png)
 
   <p>The footer groups closing information into a simple structure:</p>
 
