@@ -82,7 +82,8 @@
   </p>
 
   <h2>Card-Based Service Grid</h2>
-
+  
+![View service grid screenshot](Services-Card.png)
   <p>
     The services section uses a card grid layout to organize multiple service
     categories.
