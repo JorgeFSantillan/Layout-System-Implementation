@@ -1,4 +1,4 @@
-<h1>Layout System Implementation</h1>
+<h1>Layout System Implementation (Page 3)</h1>
 
   <p>
     The homepage layout was reviewed to understand how content sections,
@@ -24,7 +24,7 @@
 
   <h2>Page Section Flow</h2>
 
-![View full homepage layout](images/homepage.png)
+ [View full homepage layout](homepage.png)
 
   <p>The homepage follows a clear top-to-bottom structure:</p>
 
@@ -121,4 +121,6 @@
   <p>
     This gives the page a clear ending and keeps important links accessible.
   </p>
-</section>
+
+
+[Return to Page 1 ](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
