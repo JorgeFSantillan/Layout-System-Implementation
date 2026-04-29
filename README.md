@@ -41,7 +41,18 @@
     This structure moves the user from the main message, to supporting
     information, to available services, and finally to a contact point.
   </p>
+  
+<h2>Spacing, Padding & Alignment</h2>
+  
+<p>Spacing was reviewed to understand how padding, margins, and alignment supported the homepage layout.</p>
 
+  <ul>
+    <li>Padding created internal space within sections and containers</li>
+    <li>Margins separated major content blocks</li>
+    <li>Vertical spacing improved readability and scanning</li>
+    <li>Alignment kept text, images, buttons, and cards visually balanced</li>
+    <li>Grid gaps separated individual service cards</li>
+  </ul>
   <h2>Hero Layout</h2>
   
 ![View hero layout](Hero.png)
@@ -54,10 +65,8 @@
     <li>Call-to-action button placed after the message</li>
     <li>Background image used for visual depth</li>
   </ul>
+  
 
-  <p>
-    This creates a direct flow from brand recognition, to message, to action.
-  </p>
 
   <h2>Two-Column Layouts</h2>
   
