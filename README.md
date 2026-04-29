@@ -45,7 +45,8 @@
   </p>
 
   <h2>Hero Layout</h2>
-
+  
+![View hero layout](Hero.png)
   <p>The hero section uses a clear visual hierarchy:</p>
 
   <ul>
