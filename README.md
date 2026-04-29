@@ -6,10 +6,8 @@
     structure.
   </p>
 
-  <p>
-    For simplicity, this section focuses on the homepage and selected areas of
-    analysis.
-  </p>
+  > For simplicity, this section focuses on the homepage and selected areas of analysis.
+  
 
   <h2>Areas Reviewed</h2>
 
@@ -62,7 +60,8 @@
   </p>
 
   <h2>Two-Column Layouts</h2>
-
+  
+ ![View Two Column layout](Two-Column.png)
   <p>
     Several sections use a two-column structure to balance written content with
     visual support.
@@ -111,6 +110,8 @@
   </p>
 
   <h2>Footer Layout</h2>
+
+![View footer screenshot](Foorer.png)
 
   <p>The footer groups closing information into a simple structure:</p>
 
