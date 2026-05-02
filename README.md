@@ -1,138 +1,130 @@
 <h1>Layout System Implementation (Page 3)</h1>
 
-  <p>
-    The homepage layout was reviewed to understand how content sections,
-    spacing, alignment, and visual grouping were used to create a clear page
-    structure.
-  </p>
+<p>
+The homepage layout is reviewed to understand how content sections, spacing, alignment, and visual grouping create a clear page structure.
+</p>
 
-  > For simplicity, this section focuses on the homepage and selected areas of analysis.
-  
+> This section focuses on the homepage and selected areas for clarity.
 
-  <h2>Areas Reviewed</h2>
+<h2>Areas Reviewed</h2>
 
-  <ul>
-    <li>Page section flow</li>
-    <li>Hero layout</li>
-    <li>Two-column content sections</li>
-    <li>Card-based service grid</li>
-    <li>Visual grouping and section separation</li>
-    <li>Footer layout</li>
-  </ul>
+<ul>
+<li>Page section flow</li>
+<li>Hero layout</li>
+<li>Two-column content sections</li>
+<li>Card-based service grid</li>
+<li>Visual grouping and section separation</li>
+<li>Footer layout</li>
+</ul>
 
-  <h2>Page Section Flow</h2>
+<h2>Page Section Flow</h2>
 
- [View full homepage layout](homepage.png)
+[View Full Homepage Layout](homepage.png)
 
-  <p>The homepage follows a clear top-to-bottom structure:</p>
+<p>The homepage follows a clear top-to-bottom structure:</p>
 
-  <ol>
-    <li>Hero section</li>
-    <li>Problem / value section</li>
-    <li>Services section</li>
-    <li>Why section</li>
-    <li>Audience section</li>
-    <li>Insights section</li>
-    <li>Contact section</li>
-    <li>Footer</li>
-  </ol>
+<ol>
+<li>Hero section</li>
+<li>Problem / value section</li>
+<li>Services section</li>
+<li>Why section</li>
+<li>Audience section</li>
+<li>Insights section</li>
+<li>Contact section</li>
+<li>Footer</li>
+</ol>
 
-  <p>
-    This structure moves the user from the main message, to supporting
-    information, to available services, and finally to a contact point.
-  </p>
-  
+<p>
+This structure guides the user from the main message to supporting information, then to services, and finally to a contact point.
+</p>
+
 <h2>Spacing, Padding & Alignment</h2>
-  
-<p>Spacing was reviewed to understand how padding, margins, and alignment supported the homepage layout.</p>
 
-  <ul>
-    <li>Padding created internal space within sections and containers</li>
-    <li>Margins separated major content blocks</li>
-    <li>Vertical spacing improved readability and scanning</li>
-    <li>Alignment kept text, images, buttons, and cards visually balanced</li>
-    <li>Grid gaps separated individual service cards</li>
-  </ul>
-  <h2>Hero Layout</h2>
-  
-![View hero layout](Hero.png)
-  <p>The hero section uses a clear visual hierarchy:</p>
+<p>Spacing is reviewed to understand how padding, margins, and alignment support the layout.</p>
 
-  <ul>
-    <li>Logo and navigation at the top</li>
-    <li>Main headline as the primary focus</li>
-    <li>Supporting text under the headline</li>
-    <li>Call-to-action button placed after the message</li>
-    <li>Background image used for visual depth</li>
-  </ul>
-  
+<ul>
+<li>Padding creates internal space within sections and containers</li>
+<li>Margins separate major content blocks</li>
+<li>Vertical spacing improves readability and scanning</li>
+<li>Alignment keeps text, images, buttons, and cards visually balanced</li>
+<li>Grid gaps separate individual service cards</li>
+</ul>
 
+<h2>Hero Layout</h2>
 
-  <h2>Two-Column Layouts</h2>
-  
- ![View Two Column layout](Two-Column.png)
-  <p>
-    Several sections use a two-column structure to balance written content with
-    visual support.
-  </p>
+![View Hero Layout](Hero.png)
 
-  <p>Examples include:</p>
+<p>The hero section follows a clear visual hierarchy:</p>
 
-  <ul>
-    <li>Text paired with an image</li>
-    <li>Image paired with supporting explanation</li>
-    <li>Contact copy paired with a form</li>
-  </ul>
+<ul>
+<li>Logo and navigation at the top</li>
+<li>Main headline as the primary focus</li>
+<li>Supporting text below the headline</li>
+<li>Call-to-action button placed after the message</li>
+<li>Background image used for visual depth</li>
+</ul>
 
-  <p>
-    This layout helps break up long text, improves readability, and gives each
-    section a clearer visual rhythm.
-  </p>
+<h2>Two-Column Layouts</h2>
 
-  <h2>Card-Based Service Grid</h2>
-  
-![View service grid screenshot](Services-Card.png)
-  <p>
-    The services section uses a card grid layout to organize multiple service
-    categories.
-  </p>
+![View Two-Column Layout](Two-Column.png)
 
-  <p>The card layout helps:</p>
+<p>
+Several sections use a two-column structure to balance content with visual support.
+</p>
 
-  <ul>
-    <li>Separate each service clearly</li>
-    <li>Improve scanability</li>
-    <li>Keep related information grouped</li>
-    <li>Make the section easier to compare visually</li>
-  </ul>
+<p>Examples include:</p>
 
-  <h2>Visual Grouping &amp; Section Separation</h2>
+<ul>
+<li>Text paired with an image</li>
+<li>Image paired with supporting explanation</li>
+<li>Contact copy paired with a form</li>
+</ul>
 
-  <p>
-    The homepage uses spacing, background color changes, and section separation
-    to organize content into clear blocks.
-  </p>
+<p>
+This layout breaks up long text, improves readability, and creates a consistent visual rhythm.
+</p>
 
-  <p>
-    This helps users quickly understand where one section ends and the next
-    begins.
-  </p>
+<h2>Card-Based Service Grid</h2>
 
-  <h2>Footer Layout</h2>
+![View Service Grid Screenshot](Services-Card.png)
 
-![View footer screenshot](Footer.png)
+<p>
+The services section uses a card grid layout to organize multiple service categories.
+</p>
 
-  <p>The footer groups closing information into a simple structure:</p>
+<p>The card layout:</p>
 
-  <ul>
-    <li>Brand/logo area</li>
-    <li>Navigation links</li>
-    <li>Policy links</li>
-  </ul>
+<ul>
+<li>Separates each service clearly</li>
+<li>Improves scanability</li>
+<li>Keeps related information grouped</li>
+<li>Makes comparison easier</li>
+</ul>
 
-  <p>
-    This gives the page a clear ending and keeps important links accessible.
-  </p>
+<h2>Visual Grouping & Section Separation</h2>
 
+<p>
+The homepage uses spacing, background color changes, and section separation to organize content into distinct blocks.
+</p>
 
-[Return to Page 1 ](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
+<p>
+This allows users to quickly identify where one section ends and the next begins.
+</p>
+
+<h2>Footer Layout</h2>
+
+![View Footer Screenshot](Footer.png)
+
+<p>The footer organizes closing information into a simple structure:</p>
+
+<ul>
+<li>Brand/logo area</li>
+<li>Navigation links</li>
+<li>Policy links</li>
+</ul>
+
+<p>
+This provides a clear endpoint and keeps important links accessible.
+</p>
+
+[Return to Page 1](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
